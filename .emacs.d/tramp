@@ -1,0 +1,47 @@
+;; -*- emacs-lisp -*- <15/05/08 19:24:54 /Users/cheney/.emacs.d/tramp>
+;; Tramp connection history.  Don't change this file.
+;; You can delete it, forcing Tramp to reapply the checks.
+
+((["scp" nil "ubuntu" nil nil]
+  ("uname" "Linux 3.13.0-32-generic")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("locale" "LC_ALL=en_US.utf8")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("~" "/home/cheney")
+  ("file-exists" "test -e")
+  ("readlink" "\\readlink")
+  ("stat" "\\stat")
+  ("id" "/usr/bin/id")
+  ("gid-integer" 1000)
+  ("gid-string" "cheney")
+  ("ls" "/bin/ls --color=never")
+  ("ls-dired" t)
+  ("trash" nil)
+  ("uid-integer" 1000)
+  ("tmpdir" "/scp:ubuntu:/tmp")
+  ("touch-t" t)
+  ("touch" "\\touch")
+  ("git" "\\git")
+  ("bzr" nil))
+ (["scp" "root" "in.0xdf.com" nil nil]
+  ("locale" "LC_ALL=en_US.utf8")
+  ("uname" "Linux 3.13.0-36-generic")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("id" "/usr/bin/id")
+  ("gid-integer" 0)
+  ("file-exists" "test -e")
+  ("stat" "\\stat")
+  ("gid-string" "root")
+  ("readlink" "\\readlink")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("git" "\\git")))

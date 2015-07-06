@@ -1,0 +1,128 @@
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+./mod_ip.sh 
+cd ../
+ls
+cd ../
+ls
+pwd
+grep -R hello *
+sf
+sf
+sf
+sf
+sf
+sf
+sf
+sf
+echo $GOAPTH
+echo $GOPATH
+cd ../../
+ls
+cd doc/
+ls
+cd dsp-doc/
+ls
+d
+find . | grep pai
+cd ~/.emacs.d/
+ls
+cd models/
+ls
+pwd
+cd go-mode.el/
+ls
+pwd
+cd ../
+ls
+ssh root@0xdf.com
+ssh root@in.0xdf.com
+route add -net 64.233.0.0/16 dev ppp0
+sudo route add -net 64.233.0.0/16 dev ppp0
+ssh root@in.0xdf.com

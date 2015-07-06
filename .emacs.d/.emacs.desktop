@@ -1,0 +1,2791 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Jul  6 10:44:43 2015
+;; Desktop file format version 208
+;; Emacs version 25.0.50.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (21913 60315 495630 0) (desktop . "208") "cheney@ns.mqcache.net" nil nil ((((font-backend mac-ct) (fontsize . 0) (font . "-*-M+ 2m-light-normal-normal-*-16-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#FDF4C1") (background-color . "#282828") (line-spacing) (left-fringe . 0) (right-fringe . 0) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (fullscreen . fullboth) (display . "ns.mqcache.net") (display-type . color) (background-mode . dark) (cursor-color . "DarkOrange1") (visibility . t) (environment) (frameset--id . "82D4-AF81-E9E3-FA97") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (explicit-name) (tool-bar-position . top) (height . 44) (width . 240) (left . 0) (top + -1068)) ((min-height . 4) (min-width . 20) (min-height-ignore . 2) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 96) (min-pixel-width . 160) (min-pixel-height-ignore . 48) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 24) (min-pixel-width-safe . 32)) hc (pixel-width . 1920) (pixel-height . 1032) (total-width . 240) (total-height . 43) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 960) (pixel-height . 1032) (total-width . 120) (total-height . 43) (normal-height . 1.0) (normal-width . 0.5) (buffer "api.go<http>" (selected) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated) (point . 883) (start . 83))) (leaf (last . t) (pixel-width . 960) (pixel-height . 1032) (total-width . 120) (total-height . 43) (normal-height . 1.0) (normal-width . 0.5) (buffer ".emacs" (selected . t) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated) (point . 1487) (start . 892)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("et" "	"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/.emacs" "/Users/cheney/Projects/sf/src/dsp_web/library/detection/client/transform/UserAgentParser.php" "/Users/cheney/Projects/sf/src/dsp_web/library/detection/client/client.php" "/Users/cheney/Projects/jj/go/deps/src/github.com/jj-io/readline/readline.go" "~/Projects/sf/src/data_center/gaia/config/example/query_dims.json" "/Users/cheney/Projects/GoProject/src/github.com/bobappleyard/readline/readline.go" "~/Projects/jj/go/deps/src/github.com/jj-io/readline/readline.go" "/Users/cheney/readline-6.3/readline.c" "~/Projects/jj/go/src/github.com/jj-io/jj/cmd/jjcli/" "~/Projects/jj/go/deps/src/github.com/jj-io/readline/readline.go" "~/Projects/jj/go/deps/src/github.com/jj-io/readline/example_test.go" "~/Projects/jj/go/deps/src/github.com/jj-io/readline/utils.go" "~/Projects/jj/go/deps/src/github.com/jj-io/readline/ex.go" "~/Projects/jj/go/deps/src/github.com/jj-io/readline/readline.go" "~/Projects/jj/go/src/github.com/jj-io/jj/cmd/jjcli/readline.go" "/Users/cheney/Projects/GoProject/src/github.com/bitly/nsq/nsqd/protocol_v2.go" "/Users/cheney/Projects/GoProject/src/github.com/bitly/nsq/nsqd/topic.go" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/mq/mq_init.go" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/mq/mq_mgr.go" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/mq/mq_init.go" "/usr/local/go/src/net/dial.go" "~/Projects/test/go/md5.go" "/Users/cheney/Projects/GoProject/src/github.com/coreos/go-etcd/etcd/watch.go" "/Users/cheney/Projects/GoProject/src/github.com/bitly/nsq/nsqd/diskqueue.go" "~/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcenc/aes_json_test.go" "~/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcenc/msgpack_test.go" "~/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcenc/aes_json_test.go" "~/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcenc/aes_json.go" "~/.emacs" "~/.profile" "~/Projects/sf/src/sunteng/commons/db/mynsq/pub.go" "~/Projects/sf/src/gospel/conf/data_center/root.json" "~/Projects/sf/src/gospel/conf/data_center/query_dims.json" "~/Projects/sf/src/data_center/gaia/query/query.go" "~/Projects/sf/src/data_center/gaia/query/condition.go" "~/Projects/sf/src/data_center/gaia/query/query.go" "~/Projects/sf/src/data_center/gaia/query/query_parser.go" "~/Projects/sf/src/data_center/gaia/http/api.go" "~/Projects/sf/src/gospel/conf/data_center/query_metrics.json" "~/Projects/sf/src/gospel/conf/data_center/tables.json" "~/Projects/sf/src/sunteng/commons/math_expr/expr.go" "~/Projects/sf/src/sunteng/commons/math_expr/expr_test.go" "~/Projects/sf/src/data_center/gaia/http/service.go" "~/Projects/sf/src/gospel/conf/data_center/query_metrics.json" "/Users/cheney/Projects/sf/src/gospel/conf/data_center/tables.json" "~/Projects/GoProject/src/github.com/bitly/go-nsq/delegates.go" "/Users/cheney/Projects/GoProject/src/github.com/bitly/go-nsq/consumer.go" "~/Projects/sf/src/data_center/gaia/config/example/tables.json" "~/Projects/test/go/float-plus.go" "~/Projects/jj/go/src/github.com/jj-io/jj/cmd/notifycli/notifycli.go" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/mgr/mgr_init.go" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/mgr/mgr_ctx.go" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/mgr/mgr_mq.go" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/mgr/mgr_ctx.go" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/notify/notify_mq.go" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/notify/notify_init.go" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/notify/notify_dispatch.go" "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/service/notify/notify.go" "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcmux/mux_serve.go" "~/Projects/sf/src/data_center/gaia/config/config.go" "/Users/cheney/Projects/sf/src/gospel/bin/query/query_service.go" "~/Projects/sf/src/data_center/gaia/http/service.go" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/notify/notify_context.go" "~/Projects/sf/src/data_center/gaia/query/mysql/mysql_query.go" "~/Projects/sf/src/gospel/conf/data_center/query_dims.json" "~/Projects/sf/src/data_center/gaia/http/api.go" "~/Projects/sf/src/gospel/models/creative/adx/letv/letv.go" "~/Projects/sf/src/gospel/models/creative/adx/letv/upload.go" "~/Projects/sf/src/gospel/models/creative/adx/letv/letv.go" "~/Projects/sf/src/gospel/models/creative/adx/letv/api.go" "~/Projects/sf/src/gospel/conf/files/adx/letv/other.json" "~/Projects/sf/src/gospel/models/creative/adx/letv/upload.go" "~/Projects/sf/src/sunteng/commons/config/dashboard/asset/utils.js" "~/Projects/sf/src/sunteng/commons/config/dashboard/asset/ember.js" "~/Projects/sf/src/sunteng/commons/config/dashboard/asset/utils.js" "~/Projects/sf/src/gospel/models/creative/adx/letv/upload.go" "~/.emacs" "~/Projects/sf/deps/src/github.com/hashicorp/consul/api/kv.go" "~/Projects/sf/src/sunteng/commons/config/dashboard/asset/utils.js" "/Users/cheney/Projects/sf/src/sunteng/commons/config/tool/import.go" "~/Projects/sf/src/sunteng/commons/config/dashboard/asset/base64.js" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/notify/kljalkjsadf" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/notify/" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/notify/notify_init.go" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/notify/notify_mq.go" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/notify/notify_context.go" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/notify/notify_init.go" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/notify/" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/notify/init.go" "~/Projects/jj/go/src/github.com/jj-io/jj/rpc/dial.go" "~/Projects/jj/go/src/github.com/jj-io/jj/rpc/listener.go" "~/Projects/jj/go/src/github.com/jj-io/jj/rpc/" "~/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcapi/" "~/Projects/jj/go/src/github.com/jj-io/jj/rpc/dial.go" "~/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcapi/" "~/Projects/jj/go/src/github.com/jj-io/jj/internal/rl/readline.go" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/mq/mq_init.go" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/mq/mq_pubsub.go" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/mq/mq_init.go" "~/Projects/jj/go/src/github.com/jj-io/jj/handlers/mq/mq_ctx.go"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/Users/cheney/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(auto-complete-mode projectile-mode)
+  1487
+  '(1570 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1312 6481 6481 1245 1228 1128 1111 1001 1018 957 974 867 850 760 743 717))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_web/library/detection/client/transform/UserAgentParser.php"
+  "UserAgentParser.php"
+  'php-mode
+  '(abbrev-mode auto-complete-mode projectile-mode)
+  102655
+  '(115116 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t))
+  '((mark-ring (102655))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/http/api.go"
+  "api.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  883
+  '(1248 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (994 192 1315 192 192 192 192 192 192 192 192 192 192 192 192 883))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/config/example/query_metrics.json"
+  "query_metrics.json"
+  'js-mode
+  '(auto-complete-mode projectile-mode)
+  952
+  '(952 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1815 1808 1809 1031 1034 1031 389 474 704 994 2302 2558 1809 1808 1813 1815))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/config/example/query_dims.json"
+  "query_dims.json"
+  'js-mode
+  '(auto-complete-mode projectile-mode)
+  1369
+  '(1722 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1666 990 1666 1722 922 795 1180 1180 1369))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_web/library/detection/client/client.php"
+  "client.php"
+  'php-mode
+  '(abbrev-mode auto-complete-mode projectile-mode)
+  1391
+  '(1400 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/deps/src/github.com/jj-io/readline/ex.go"
+  "ex.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  223
+  '(1076 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (756 1118 1118 1118 657 657 657 1044 601 1044 594 567 567 1308 1118 1005))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/deps/src/github.com/jj-io/readline/readline.go"
+  "readline.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  6681
+  '(6681 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (6386 1804 6555 6661 6685 6661 6609 1804 6560 6490 6700 6568 6156 1804 1804 6702))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/cmd/jjcli/jjcli.go"
+  "jjcli.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  2400
+  '(2400 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2407 1090 2407 2407 2407 1324 1217 2407 2208 2033 1651 1501 1440 2123 910 735))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/readline-6.3/signals.c"
+  "signals.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode projectile-mode)
+  10683
+  '(11510 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (11454 11496 11496 2802 2810 2802 6247 11499 11496 11499 11496 11454 10683))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/readline-6.3/readline.h"
+  "readline.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode projectile-mode)
+  36201
+  '(36409 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (22626 22624 22623 22624 24213 24200 24201 24200 24209 24213 24395 22635 22626 36411 36409))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/readline-6.3/rltypedefs.h"
+  "rltypedefs.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode projectile-mode)
+  1678
+  '(1651 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1654 1651 1678))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/deps/src/github.com/jj-io/readline/utils.go"
+  "utils.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  252
+  '(449 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (449 535 67 391 521 435 332 190 84 188 56 69 67 535 240))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/readline-6.3/readline.c"
+  "readline.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode projectile-mode)
+  36185
+  '(17880 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (11150 11133 1518 905 11141 11133 17961))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/GoProject/src/github.com/bitly/nsq/nsqd/diskqueue.go"
+  "diskqueue.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  13123
+  '(2325 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1481 1497 1481 3480 3489 3473 2931 2901 2901 2896 2900 2900 2901 2901 2911 13123))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/GoProject/src/github.com/bitly/nsq/nsqd/rename.go"
+  "rename.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  58
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/GoProject/src/github.com/bitly/nsq/nsqd/topic.go"
+  "topic.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  2012
+  '(2012 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1268 1166 296 1169 1166 1268))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/cmd/notifycli/notifycli.go"
+  "notifycli.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1365
+  '(358 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2238 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1365))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/cmd/jjcli/mgrcli.go"
+  "mgrcli.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1464
+  '(1455 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1252 830 1028 1231 1207 1231 1186 1231 1163 1163 1163 1231 1163 1231 1452 1025))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/cmd/mgrcli/mgrcli.go"
+  "mgrcli.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1
+  '(2238 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1848 1840 2150 2144 1481 1481 1481 1079 1481 1481 1481 1481 1344 1359 514 548))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/cmd/mqcli/mqcli.go"
+  "mqcli.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  132
+  '(2395 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2387 1692 1405 418 254 1432 1433 1416 2446 2425 2446 2404 2446 1390 1390 1692))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/deps/src/github.com/jj-io/readline/example_test.go"
+  "example_test.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  315
+  '(315 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (327 201))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/internal/utils.go"
+  "utils.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  441
+  '(336 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (395 364 442 481 458 219 164 536 314 109 318 318 313 333 299 287))))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/io/ioutil/ioutil.go"
+  "ioutil.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1470
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/deps/src/gopkg.in/logex.v1/logex.go"
+  "logex.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1509
+  '(1396 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (700 4224 649 749 697 649 4254 1603 1392))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/handlers/notify/notify_mq.go"
+  "notify_mq.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  366
+  '(328 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (328 351 369 305 396 306 303 303 303 207 399 380 380 392 411 366))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/GoProject/src/github.com/bitly/nsq/nsqd/channel.go"
+  "channel.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  5799
+  '(13327 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (2732 14602 5123 944 13320 13065 11054 7537 7455 10531 9053 9053 7455 7455 7455 13069))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/GoProject/src/github.com/bitly/nsq/nsqd/protocol_v2.go"
+  "protocol_v2.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  20810
+  '(20810 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (20778 20810))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/handlers/notify/notify_context.go"
+  "notify_context.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1460
+  '(1112 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1106 940 940 1413 1398 1398 1398 1398 1663 1510 1510 1596 1628 1597 1534 1460))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/data.go"
+  "data.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  851
+  '(736 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (73 561 545 522 369 358 348 318 477 312 588 64 588 561 890))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcmux/mux_client.go"
+  "mux_client.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1971
+  '(1967 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (2009 1353 450 450 1388 1161 3851 3798 431 1232 1232 1221 4626 4626 4318 2137))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/handlers/mq/mq_ctx.go"
+  "mq_ctx.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  832
+  '(829 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (829 156 142 829 770 829 142 142 142 485 389 319 937 936 319 319))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/internal/mq/mq.go"
+  "mq.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1825
+  '(1784 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1579 396 1379 378 1143 1375 1375 1322 430 187 720 81 86 698 770 1772))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/internal/mq/channel.go"
+  "channel.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  742
+  '(641 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (869 713 504 504 1368 1368 303 303 66 303 731 1131 1198 712 303 1696))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/handlers/mq/mq_init.go"
+  "mq_init.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  111
+  '(118 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (110 479 479 204 142 573 262 250 262 321 528 489 395 487 395 648))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/handlers/mq/mq_pubsub.go"
+  "mq_pubsub.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  572
+  '(1114 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (656 713 1373 1384 1175 1055 1669 1629 1531 736 736 1203 1203 772 831 1033))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/handlers/mq/mq_mgr.go"
+  "mq_mgr.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  392
+  '(134 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (168 47 108 108 108 52))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/handlers/notify/notify_init.go"
+  "notify_init.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1
+  '(567 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (567 344 182 692 706 656 754 619 754 754 1062 1062 1062 1150 1049 1163))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/interface.go"
+  "interface.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1417
+  '(416 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (416 416 1029 1504 1277 946 919 461 184 134 87 207 256 59 206 405))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/service/notify/notify.go"
+  "notify.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  2289
+  '(2289 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2304 1935 1570 1582 2250 2231 2310 2310 2310 1872 1881 1 2310 1649 2268 2359))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/handlers/mgr/mgr_ctx.go"
+  "mgr_ctx.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  221
+  '(192 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (100 96 190))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/context.go"
+  "context.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  47
+  '(48 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (83 48 48 48 194))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpclink/tcp.go"
+  "tcp.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1269
+  '(601 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1503 1367 126 126 126 126 126 517 1579 1591 444 1579 1086 1103 1038 581))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcmux/mux_serve.go"
+  "mux_serve.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  700
+  '(1905 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (2278 2296 1776 1776 755 459 1361 1393 1342 1450 1342 1396 891 891 459 1861))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/handlers/mgr/mgr_mq.go"
+  "mgr_mq.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  578
+  '(578 t)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (227 211 599 141 190 602 523 659 659 172 515 682 602 208 479 602))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/packet.go"
+  "packet.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  109
+  '(109 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1413 730 1217 306 331 331 362 306 200 1351 1424 1363 1346 1218 331 306))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/jj.go"
+  "jj.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1048
+  '(760 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (760 399 462 530 522 454 391 345 328 371 300 544 515 506 2282 1048))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/GoProject/src/github.com/coreos/go-etcd/etcd/watch.go"
+  "watch.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1348
+  '(1168 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1064 1064 2244 961 1046 1064 1210 1168 1167 1345 1348))))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/net/ipsock.go"
+  "ipsock.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  7374
+  '(7278 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (7274 7037 7312 7310 3947 6688 3954 3947 7310 7312 7037 7274 7278))))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/net/tcpsock.go"
+  "tcpsock.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  256
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/net/dial.go"
+  "dial.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  3124
+  '(3124 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (7878 4229 1))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/GoProject/src/github.com/coreos/go-etcd/etcd/error.go"
+  "error.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  726
+  '(726 t)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (307 272 785 744 733 726))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/gospel/conf/data_center/query_metrics.json"
+  "query_metrics.json"
+  'js-mode
+  '(auto-complete-mode projectile-mode)
+  1
+  '(514 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (63 63 63 63 63 106 63 63 63 63 983 982 2160 1872 1885 16))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/GoProject/src/github.com/coreos/go-etcd/etcd/response.go"
+  "response.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  847
+  '(847 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (847 743 706 719 786 778 723 719 711 706 745 743 847 847))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/GoProject/src/github.com/coreos/go-etcd/etcd/requests.go"
+  "requests.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1028
+  '(1028 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (6703))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcenc/json.go"
+  "json.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  276
+  '(424 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (590 428 428 375 370 428 428 400 373 546 559 567 340 590 590 590))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcenc/msgpack_test.go"
+  "msgpack_test.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  335
+  '(160 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (763 1 1142 887 884 496 456 417 374 398 398 763 580 706 708 706))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcenc/aes_json_test.go"
+  "aes_json_test.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  493
+  '(809 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (809 481 431 221 181 142 99 82 82 1 1 810))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcenc/aes_json.go"
+  "aes_json.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  503
+  '(1116 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (792 759 759 797 795 1036 709 780 759 759 831 708 708 708 708 1116))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/handlers/mgr/mgr_init.go"
+  "mgr_init.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  589
+  '(589 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (335 306 329 335 306 329 329 329 335 306 329 329 219 169 156 387))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcmux/debug_handler.go"
+  "debug_handler.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  561
+  '(573 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (573 301 313 379 250 250 501 250 240 316 316 221 214 264 264 561))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/sunteng/commons/db/mynsq/producer.go"
+  "producer.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1198
+  '(815 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1175 1223 1198))))
+
+(desktop-create-buffer 208
+  nil
+  "mgr"
+  'dired-mode
+  '(projectile-mode)
+  327
+  '(nil nil)
+  t
+  '("/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/handlers/mgr/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/sunteng/commons/db/mynsq/pub.go"
+  "pub.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  268
+  '(268 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (414 354 412 73 55 327 255 600 564 446 441 255 276 255 61 168))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/query/druid/druid_query.go"
+  "druid_query.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  768
+  '(2658 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2658 3123 3123 3123 3231 3147 2658 2971 668 1017 1017 1511 4575 4886 4473 768))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/config/table.go"
+  "table.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  5407
+  '(5148 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (4607 1850 1850 1850 1027 1113 5218 4287 4427 4304 4427 4330 5227 5148 5194 5407))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/query/query.go"
+  "query.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1326
+  '(1340 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1359 1343 1352 3446 2322 700 8781 468 635 635 635 635 635 635 635 635))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/query/row_bundle.go"
+  "row_bundle.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  6770
+  '(6580 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (772 330 5267 5398 5271 5488 5494 5485 4617 4604 4561 3110 555 5751 4608 6770))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/gospel/conf/data_center/tables.json"
+  "tables.json"
+  'js-mode
+  '(auto-complete-mode projectile-mode)
+  7957
+  '(8045 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (7816 8043 6765 6754 9202 6765 6754 6619 3078 74 25763 25720 273 73 1197 7957))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/gospel/conf/data_center/root.json"
+  "root.json"
+  'js-mode
+  '(auto-complete-mode projectile-mode)
+  29
+  '(29 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/query/query_parser.go"
+  "query_parser.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1010
+  '(942 t)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (861 1074 1056 1073 1120 1074 1120 780 1 1120 175 162 175 754 754 1120))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/utils/utils.go"
+  "utils.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  5394
+  '(4756 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (5317 4725 2826 3069 2826 2523 2491 1037 998 761 468 1109 998 1017 1037 5394))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/deps/src/github.com/shunfei/godruid/client.go"
+  "client.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  500
+  '(503 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (533 533 503 585 597 503 503 500))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/config/parser.go"
+  "parser.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  2919
+  '(2542 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (2542 2167 7064 8002 7873 8020 7956 7956 2542 2460 2460 2460 2571 2460 2460 2919))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/query/table_router.go"
+  "table_router.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  4614
+  '(4600 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (3795 3289 3129 3199 3199 4600 4614 2909 3061 4600 4614 4613 4526 3588 1589 1226))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/gospel/conf/data_center/query_dims.json"
+  "query_dims.json"
+  'js-mode
+  '(auto-complete-mode projectile-mode)
+  855
+  '(855 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (39 583 583 587 587 586 586 583 586 583 586 813 1197 1197 45 39))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/query/druid/parsers.go"
+  "parsers.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  12841
+  '(925 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (924 880 442 869 926 924))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/query/condition.go"
+  "condition.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  631
+  '(1681 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (4864 3758 1727 3383 5945 7612 3383 3376 5601 5182 4300 4231 4238 3763 1727 631))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/query_wrap/query_wrap.go"
+  "query_wrap.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  821
+  '(346 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (354 342 824 821 1060 1066 1063 1063 317 317 354 317 354 726 803 821))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/http/service.go"
+  "service.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  408
+  '(437 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (437 853 77 77 77 77 77 77 77 77 77 77 77 77 77 77))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/query/mysql/mysql_query.go"
+  "mysql_query.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  3163
+  '(2992 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1496 5695 4102 4116 4068 3867 3867 3875 4322 5224 3039 3029 1425 1456 5398 3163))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/deps/src/github.com/shunfei/godruid/aggregations.go"
+  "aggregations.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  207
+  '(217 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/sunteng/commons/math_expr/expr.go"
+  "expr.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  10472
+  '(3993 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (5314 1107 1107 5239))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/sunteng/commons/math_expr/expr_test.go"
+  "expr_test.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1605
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/config/example/tables.json"
+  "tables.json"
+  'js-mode
+  '(auto-complete-mode projectile-mode)
+  11537
+  '(11526 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (11273 11542 11526 10798 10798 10460 10803 10798 10803 10798 11533 11526 11540 11542 11273 11533))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/config.json"
+  "config.json"
+  'js-mode
+  '(auto-complete-mode projectile-mode)
+  1229
+  '(1046 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (875 694 668 1046 1046 21488))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/gospel/bin/query/query_service.go"
+  "query_service.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1672
+  '(1009 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1871 1672))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcprot/v1.go"
+  "v1.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1667
+  '(1383 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (966 127 658 658 135 201 186 186 708 936 730 931 907 462 345 1667))))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/net/rpc/client.go"
+  "client.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  541
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/service/mgr/mgr.go"
+  "mgr.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1607
+  '(1418 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1622 1048 419 419 419 1232 1238 1148 1095 1292 1564 1482 1059 1349 288 1607))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/handlers/mgr/mgr_user.go"
+  "mgr_user.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  89
+  '(48 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (69 69 48 48 68 48 14 69 14 89 14 14))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/handlers/notify/notify_dispatch.go"
+  "notify_dispatch.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  85
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/query/specs.go"
+  "specs.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1672
+  '(393 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (489 907 930 812 780 746 3046 393 4073 4035 1147 183 695 798 1552 695))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/query/query_utils.go"
+  "query_utils.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1054
+  '(533 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (101 1014 1053 1560 1621 1317 1115 1041 1041 1115 1323 1317 1578 1682 1452 1054))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/handlers/auth/auth.go"
+  "auth.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  3634
+  '(3634 t)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1410 429 383 311 464 416 373 2832 304 1354 310 2821 370 3613 1790 3229))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/service/auth/auth.go"
+  "auth.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1264
+  '(958 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (678 220 995 198 214 214 214 214 214 214 214 1264 15 1211 1264 1264))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/http/specs.go"
+  "specs.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1864
+  '(1864 t)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1339 1014 615 727 3139 3987 3746 4056 4052 4050 4088 4122 4124 4085 4009 3973))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/gospel/conf/files/adx/letv/other.json"
+  "other.json"
+  'js-mode
+  '(auto-complete-mode projectile-mode)
+  501
+  '(294 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (499 499 499 499 499 499 499 448 501 501))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/gospel/models/creative/adx/letv/letv.go"
+  "letv.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  2730
+  '(2730 t)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2650 2650 2650 1442 687 2035 2645 1913 1221 1380 1206 1155 1403 1112 2170 2170))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/gospel/models/creative/adx/letv/upload.go"
+  "upload.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  2039
+  '(1716 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1477 1327 1327 94 1327 1327 1319 192 352 192 192 192 192 192 192 192))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/gospel/models/creative/audit/audit.go"
+  "audit.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  6823
+  '(2615 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (6855 6697 6855))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/gospel/models/creative/adx/letv/api.go"
+  "api.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1933
+  '(1933 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1605 1830 1881 1881 1881 1881 1863 1123 1731 1863 1466 1466 1474 1881 1771 1771))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dcmq/html/js/app.js"
+  "app.js"
+  'js-mode
+  '(auto-complete-mode projectile-mode)
+  9258
+  '(9258 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (8472 9570 9930 9616 868 5073 8566 4181 1 10487 2130 2115 2115 2115 2115 3680))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dcmq/html/index.html"
+  "index.html"
+  'web-mode
+  '(projectile-mode)
+  1116
+  '(973 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (554 7256 7123 7146 7152 7185 7131 7164 7123 7122 2235 2077 1359 3715 133 1116))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dcmq/html/css/style.css"
+  "style.css"
+  'css-mode
+  '(auto-complete-mode projectile-mode)
+  109
+  '(464 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (479))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/gospel/models/creative/adx/letv/audit.go"
+  "audit.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  2796
+  '(2726 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1598 1598 1621 749 3043 3043 4313 4247 4015 4015 2399 2366 2428 2428 2726 2796))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/deps/src/github.com/hashicorp/consul/api/kv.go"
+  "kv.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  4591
+  '(2937 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (2939 2026 1134 1134 1132 725 2938 1133 1108 1027 4522 4529 2938 1134 4591))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/model/bid/rule.go"
+  "rule.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  4514
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/model/user.go"
+  "user.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  2482
+  '(1012 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1065 460 442 1965 1971 1965 2098 1807 2528 1732 409 1184 922 883 778 1630))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/dial.go"
+  "dial.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  225
+  '(225 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (215 130 85 12 89 85 85 60 245 85 85 230 85))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcmux/mux_test.go"
+  "mux_test.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  470
+  '(723 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1087 1068 938 1203 1203 916 688 468 307 427 212 177 130 130 338 651))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/service/mq/mq.go"
+  "mq.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1060
+  '(743 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1339 1339 1337 1337 1337 1158 1105 1355 1355 1133 1155 1126 1193 408 346 1165))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/listener.go"
+  "listener.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  12
+  '(13 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 237))))
+
+(desktop-create-buffer 208
+  nil
+  "rpc"
+  'dired-mode
+  '(projectile-mode)
+  383
+  '(nil nil)
+  t
+  '("/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/internal/mq/topic.go"
+  "topic.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1694
+  '(1749 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1536 713 726 688 2337 2330 2312 808 1066 1489 354 318 326 1422 1254 1694))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/internal/mq/client.go"
+  "client.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  629
+  '(567 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (567 93 562 570 1560 1 1440 567))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/internal/mq/mq_test.go"
+  "mq_test.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1381
+  '(808 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (804 1527 1228 1515 1502 1355 811 811 1355 1999 1992 2009 1791 1791 780 1752))))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/reflect/value.go"
+  "value.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  54560
+  '(54570 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (55590 54614 55586 54524 54560 54524 55591 55624 54570 55591))))
+
+(desktop-create-buffer 208
+  nil
+  "api"
+  'dired-mode
+  '(projectile-mode)
+  585
+  '(nil nil)
+  t
+  '("/Users/cheney/Projects/sf/deps/src/github.com/hashicorp/consul/api/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/gospel/bin/query_service.go"
+  "query_service.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  705
+  '(672 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (688 808 196 139 139 217 576 361 141 139 141 139 198 196 888 705))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/test/go/select-time.go"
+  "select-time.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  160
+  '(174 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (164 142 63 205 154 164))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/test/go/malloc.go"
+  "malloc.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  141
+  '(42 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (20 26 100 93 110 52 110 52 110 110 110 110 78 21 85 141))))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/runtime/malloc.go"
+  "malloc.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  304
+  '(304 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1874 1828 1 1821 1816 1874))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/config/config_info.go"
+  "config_info.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  242
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/request.go"
+  "request.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  181
+  '(181 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (317 317 36 36 36 36 14 36 36 317 317 317 126 317 36))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcmux/context.go"
+  "context.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  797
+  '(797 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (753 753 644 633 747 747 627 633 115 176 685 685 678 685 663 685))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpclink/tcp_test.go"
+  "tcp_test.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  609
+  '(768 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (417 1105 1105 1005 441 441 417 417 465 546 546 546 465 390 149 569))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/library/db/dpmq/mq.go"
+  "mq.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  2208
+  '(2208 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/test/go/chan-closed.go"
+  "chan-closed.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  83
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/service/service.go"
+  "service.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  256
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (79 92 283 257 257 215 298 298 200 223 141 18 298 298 298 298))))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/bytes/reader.go"
+  "reader.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  2284
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/bytes/buffer.go"
+  "buffer.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1611
+  '(10194 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (500 4902 5441 403 408 5441 501 500 10198 10194 11808))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcprot/protocol.go"
+  "protocol.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  17
+  '(17 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (17 17 17 17 17 17 17 17 17 17 17 17 16 17 17 17))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/error.go"
+  "error.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  12
+  '(202 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcmux/handler.go"
+  "handler.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  409
+  '(683 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (86 340 522 572 431 198 181 618 480 245 86 86 173 86 629 629))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcprot/v1_test.go"
+  "v1_test.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  856
+  '(849 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (849 849 626 592 665 739 859 859 859 380 520 499 520 520 173 892))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcprot/body.go"
+  "body.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  17
+  '(17 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/gospel/models/creative/adx/letv/creative.go"
+  "creative.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1310
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "gospel"
+  'dired-mode
+  '(projectile-mode)
+  240
+  '(nil nil)
+  t
+  '("/Users/cheney/Projects/sf/src/gospel/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/model/bid/mbdax/bid_server.go"
+  "bid_server.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  4348
+  '(4348 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (4329 3943 3943 3943 5047 5047 5047 5068 4250 1738 3943 3943 1694 1718 1696 1719))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/bilogic/analysis/base.go"
+  "base.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode smerge-mode)
+  12691
+  '(12243 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (22292 12953 12073 12046 12019 12019 12089 12073 12249 13414 12953 12691))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/GoProject/src/github.com/edsrzf/fineline/fineline.go"
+  "fineline.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  855
+  '(1535 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/test/go/fireline.go"
+  "fireline.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  169
+  '(169 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (116 116))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/model/bid/bid_server.go"
+  "bid_server.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  43677
+  '(2819 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (13632 13632 13633 13627 13627 13639 13636 13632 13636 13632 13911 3239 2763 43489 43461 43677))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/test/go/json-float.go"
+  "json-float.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  200
+  '(200 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1 109 200 200))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/model/bid/mbdax/bid_request.go"
+  "bid_request.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  3444
+  '(791 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (791 791 791 1410))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/model/bid/mbdax/bid_response.go"
+  "bid_response.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1109
+  '(1109 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1109 1109 1109 1109 1109 1109 1391))))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/encoding/json/stream.go"
+  "stream.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  4469
+  '(4469 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1098 1659 1613 1623 1613 4103 3965 3954 3925 3926 3925 3956 3954 3966 3965 4469))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/model/bid/letv/bid_server.go"
+  "bid_server.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  381
+  '(370 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (377 370))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/model/bid/mbdax/creative.go"
+  "creative.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1689
+  '(1433 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1229 1 1229 1229 1229 1689))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/model/bid/info_convert.go"
+  "info_convert.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  11110
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/README.md"
+  "README.md"
+  'markdown-mode
+  '(projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/bin/import_from_msg.go"
+  "import_from_msg.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "gaia"
+  'dired-mode
+  '(projectile-mode)
+  551
+  '(848 nil)
+  t
+  '("/Users/cheney/Projects/sf/src/data_center/gaia/")
+  nil
+  '((mark-ring (848))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/cmd/jjcli/call.go"
+  "call.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  477
+  '(497 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (261 257 389 625 493 174 155 809 1 1 126 155 174 493 246 582))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/internal/utils_test.go"
+  "utils_test.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  191
+  '(119 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (71 81 81 71 191 191))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/httprpc/httprpc.go"
+  "httprpc.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  415
+  '(919 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (919 127 122 919 919 919 127 127 122 733 668 719 733 668 530 1013))))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/net/http/request.go"
+  "request.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  22117
+  '(22150 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (23640 23640 22145 22150))))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/net/http/client.go"
+  "client.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  6012
+  '(13404 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (14332 13979 2390 13526))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/test/go/chan-pass.go"
+  "chan-pass.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  266
+  '(206 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (170 206 206 206 79 206 79 79 264 264 206 206 266))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/model/session.go"
+  "session.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  894
+  '(928 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (941 935 954 730 707 707 1178 707 707 706 706 706 706 706 146 894))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/model/base.go"
+  "base.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1610
+  '(2572 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (936 885 936 885 278 693 934 936 211 227 211 936 936 911 467 1393))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/model/mdb.go"
+  "mdb.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1612
+  '(1612 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1 1583 310 310 310 368 368 368 264 257 279 279 190 461 152 1918))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/deps/src/gopkg.in/mgo.v2/session.go"
+  "session.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  72558
+  '(6682 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (6115 6691 6682))))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/os/file.go"
+  "file.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1745
+  '(1758 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1752))))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/crypto/cipher/cfb.go"
+  "cfb.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1033
+  '(1077 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/io/pipe.go"
+  "pipe.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  391
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/test/go/json-stream.go"
+  "json-stream.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  363
+  '(363 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (437 351 351 15 15 1 264 402 363))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/rpc/rpcenc/msgpack.go"
+  "msgpack.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1
+  '(436 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (357 353 233 17 197 17 436 1 17 196))))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/encoding/binary/varint.go"
+  "varint.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1713
+  '(2585 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/bufio/bufio.go"
+  "bufio.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1654
+  '(1685 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1664 1676))))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/io/io.go"
+  "io.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  12253
+  '(1403 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1409 1403))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/deps/src/gopkg.in/vmihailenco/msgpack.v2/encode.go"
+  "encode.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  692
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/deps/src/gopkg.in/vmihailenco/msgpack.v2/decode.go"
+  "decode.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  2768
+  '(2768 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (2266 2266 2714))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/deps/src/gopkg.in/vmihailenco/msgpack.v2/typeinfo.go"
+  "typeinfo.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  10158
+  '(9055 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (8839 8994 9059 9055 10158))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/deps/src/gopkg.in/vmihailenco/msgpack.v2/map.go"
+  "map.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  515
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/test/go/aes-cfb.go"
+  "aes-cfb.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  257
+  '(152 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (133 157 303 110 375 110 110 156 132 110 110 110 252 665 665 257))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/deps/src/github.com/satori/go.uuid/uuid.go"
+  "uuid.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  4514
+  '(9331 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (9489 9332 9491 9489 9330))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/deps/src/gopkg.in/vmihailenco/msgpack.v2/tags.go"
+  "tags.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  470
+  '(462 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (467 462))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/src/github.com/jj-io/jj/model/relation.go"
+  "relation.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  148
+  '(476 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (408 408 441 350 332 328 303 230 224 374 476 121))))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/strings/strings.go"
+  "strings.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  3944
+  '(10609 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (9923 10609 9953))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/deps/src/gopkg.in/mgo.v2/bson/bson.go"
+  "bson.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  6286
+  '(6258 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (6140 6143 6140 6261 6258))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/GoProject/src/github.com/bitly/nsq/nsqd/tcp.go"
+  "tcp.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  866
+  '(866 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1123 1133 1133 1126 1123 806))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/test/go/select-case.go"
+  "select-case.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  475
+  '(466 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (593 542 542 147 542 542 107 535 187 187 187 86 118 399 80 90))))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/net/net.go"
+  "net.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  7855
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/sunteng/commons/constant/adx_config.go"
+  "adx_config.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  737
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/sunteng/commons/constant/adx.go"
+  "adx.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  3140
+  '(1719 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1731))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/config/base.json"
+  "base.json"
+  'js-mode
+  '(auto-complete-mode projectile-mode)
+  31487
+  '(31486 t)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (31007 31502 30960 30960 30941 32634 32570 32570 32464 32464 32464 31068 32464 32464 32464 32918))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/module/redismap/redismap.go"
+  "redismap.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  2353
+  '(1042 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (533 2640 437 2912 2912 1281 1268 1186 1186 1186 1186 1186 1186 1186 1186 1186))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/test/go/aes.go"
+  "aes.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/module/redismap/redismap_test.go"
+  "redismap_test.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  272
+  '(806 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (925 925 480 526 480 1034 680 652 273 245 710 627 245 413 431 272))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/deps/src/gopkg.in/redis.v2/commands.go"
+  "commands.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1361
+  '(1355 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1361 15120 12389))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/deps/src/gopkg.in/redis.v2/pipeline.go"
+  "pipeline.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  301
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/library/db/redis_db.go"
+  "redis_db.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  11660
+  '(11660 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (11580 11580 11627 791 7994 8126 3834 196 200 196 3834 11668 11660))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/constant/time.go"
+  "time.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  179
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/config/config.go"
+  "config.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  6780
+  '(6603 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (6632 6632 6603 6603 7893 7885 7885 7885 7876 7893 7876 6593 6603 6480 6530 6780))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/bilogic/analysis/letv/aes_price.go"
+  "aes_price.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  831
+  '(870 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/module/whisky/mbdax.go"
+  "mbdax.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  447
+  '(461 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (447 627 553 613 627 613 891 641 622 613 514))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/web/handlers/analysis.go"
+  "analysis.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  11629
+  '(11629 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (11629 11629 7976 7984 7870 8202 7830 7830 8202 8202 8202 8202 7830 11520 3973 11638))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/library/db/mqdb/db.go"
+  "db.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  278
+  '(301 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2007 734 1988 137 140 1044 1479 654 1101 1520 1419 1434 1020 466 1691 1691))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/sunteng/commons/sqlgen/condition.go"
+  "condition.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  293
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/query/mysql/parsers.go"
+  "parsers.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  198
+  '(198 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (742))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/jj/go/deps/src/gopkg.in/logex.v1/err.go"
+  "err.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  2456
+  '(1509 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (708 1509 1509 1509 1509 149 708 708 768 708 708 1554 1569 1509 1509 2456))))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/sync/once.go"
+  "once.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  266
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/sunteng/commons/db/mongo/mdb.go"
+  "mdb.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  440
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dcmq/model/base.go"
+  "base.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  269
+  '(239 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1573 431 541))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dcmq/bin/dcmq_router/dcmq_router.go"
+  "dcmq_router.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  728
+  '(619 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/utils/toposort.go"
+  "toposort.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  823
+  '(823 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/query_wrap/README.md"
+  "README.md"
+  'markdown-mode
+  '(projectile-mode)
+  49
+  '(38 t)
+  nil
+  nil
+  '((tab-width . 4))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/GoProject/src/github.com/chzyer/icontest/model/user.go"
+  "user.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  246
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/GoProject/src/github.com/chzyer/icontest/model/base.go"
+  "base.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  776
+  '(859 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (659 1732 289 1400 877 885 500 407 398 407 591 553 239 221 210 210))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/test/go/switch-break.go"
+  "switch-break.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  178
+  '(87 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (178 178 178 178 178 178))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/data_center/gaia/config/example/root.json"
+  "root.json"
+  'js-mode
+  '(auto-complete-mode projectile-mode)
+  148
+  '(166 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (392 392))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/test/go/gob.go"
+  "gob.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  119
+  '(289 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (252 186 392 392 392 186 157 71 71 394 289 289 118))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/GoProject/src/google.golang.org/grpc/credentials/credentials.go"
+  "credentials.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  6452
+  '(6452 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/GoProject/src/google.golang.org/grpc/server.go"
+  "server.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  2984
+  '(2984 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (2763 6000 4660 774 1412 4660 6000))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/sunteng/commons/constant/audit.go"
+  "audit.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  112
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/gospel/bin/audit_api/server.go"
+  "server.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  688
+  '(237 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (572))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/gospel/models/creative/creative.go"
+  "creative.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  7566
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/gospel/models/creative/audit/material.go"
+  "material.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  236
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/gospel/bin/creative/server.go"
+  "server.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  24
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/gospel/routers/audit/router.go"
+  "router.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  763
+  '(763 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dcmq/etc/handler/handler.go"
+  "handler.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  112
+  '(1931 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (222 222 112))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/GoProject/src/github.com/chzyer/icontest/handler/handler.go"
+  "handler.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  16
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/test/go/mongo-bson.go"
+  "mongo-bson.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  257
+  '(499 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/model/bid/weibo/bid_server.go"
+  "bid_server.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  1841
+  '(27 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (27 27 27 27 27 27 27 1552 2004 1841))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/model/bid/bidder/bidder.go"
+  "bidder.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  3648
+  '(3951 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (3648 3648 4058 3951))))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/config/redis_cluster.json"
+  "redis_cluster.json"
+  'js-mode
+  '(auto-complete-mode projectile-mode)
+  6392
+  '(6290 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/cheney/Projects/sf/src/dsp_masky/web/router.go"
+  "router.go"
+  'go-mode
+  '(eldoc-mode auto-complete-mode projectile-mode)
+  3274
+  '(3274 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (3207 3144 3388))))
+
+(desktop-create-buffer 208
+  nil
+  "go"
+  'dired-mode
+  '(projectile-mode)
+  315
+  '(nil nil)
+  t
+  '("/Users/cheney/Projects/test/go/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "*info*"
+  'Info-mode
+  '(projectile-mode)
+  54793
+  '(nil nil)
+  t
+  '("/Applications/Emacs.app/Contents/Resources/info/emacs" "Distrib" nil)
+  '((tab-width . 8) (buffer-file-coding-system . raw-text-unix) (case-fold-search . t))
+  '((mark-ring nil)))
+
