@@ -10,6 +10,8 @@
 (setq inhibit-startup-message t)
 (add-to-list 'load-path "~/.emacs.d/models")
 
+(require 'go-oracle)
+
 (require 'auto-complete)
 (add-to-list 'ac-dictionary-directories "~/.emacs.d//ac-dict")
 (ac-config-default)

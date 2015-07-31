@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/cheney/Projects/jj/go/deps/src/github.com/bobappleyard/readline'
+let g:netrw_dirhist_2='/Users/cheney/Projects/jj/go/deps/pkg'
+let g:netrw_dirhist_3='/Users/cheney/Projects/flume/flume-ng-dist/target/apache-flume-1.6.0-bin/apache-flume-1.6.0-bin/conf'
